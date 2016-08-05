@@ -1,0 +1,55 @@
+_repo: Daniel-Deronda_7469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Lewes, Marian Evans
+    - Cross, Mary Ann
+    - Lewes, M. E. (Marian Evans)
+    - Cross, Marian Evans
+    - Evans, Marian
+    - Evans, Mary Anne
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+description: "Daniel Deronda is a novel by George Eliot, first published in 1876.\
+  \ It was the last novel she completed and the only one set in the contemporary Victorian\
+  \ society of her day. Its mixture of social satire and moral searching, along with\
+  \ a sympathetic rendering of Jewish proto-Zionist and Kabbalistic ideas, has made\
+  \ it a controversial final statement of one of the greatest of Victorian novelists.\n\
+  The novel has been adapted for film three times, once as a silent feature and twice\
+  \ for television. It has also been adapted for the stage, most notably in the 1960s\
+  \ by the 69 Theatre Company in Manchester with Vanessa Redgrave cast as the heroine\
+  \ Gwendolen Harleth.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7469'
+  wikidata: Q552238
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Zionists -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Jewish fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Jews -- England -- Fiction'
+- GITenberg
+title: Daniel Deronda
+url: http://www.gutenberg.org/ebooks/7469
+wikipedia:
+- https://fr.wikipedia.org/wiki/Daniel_Deronda
+- https://ar.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D9%8A%D8%A7%D9%84_%D8%AF%D9%8A%D8%B1%D9%88%D9%86%D8%AF%D8%A7
+- https://pt.wikipedia.org/wiki/Daniel_Deronda
+- https://de.wikipedia.org/wiki/Daniel_Deronda
+- https://es.wikipedia.org/wiki/Daniel_Deronda
+- https://en.wikipedia.org/wiki/Daniel_Deronda
+- https://it.wikipedia.org/wiki/Daniel_Deronda
+- https://ga.wikipedia.org/wiki/Daniel_Deronda
+- https://he.wikipedia.org/wiki/%D7%93%D7%A0%D7%99%D7%90%D7%9C_%D7%93%D7%A8%D7%95%D7%A0%D7%93%D7%94
